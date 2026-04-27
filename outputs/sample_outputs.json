@@ -1,0 +1,20 @@
+[
+  {
+    "resource_id": "i-1",
+    "is_anomalous": true,
+    "anomaly_type": "over_provisioned",
+    "reason": "Low CPU usage (2%) with high memory usage (70%) indicates inefficient allocation.",
+    "suggested_action": "Downsize instance",
+    "confidence": 0.7,
+    "security_note": "High risk: public resource with attached identity may be exploited"
+  },
+  {
+    "resource_id": "i-2",
+    "is_anomalous": true,
+    "anomaly_type": "under_provisioned",
+    "reason": "CPU peaks at 98%, suggesting the system is under heavy load and may require scaling.",
+    "suggested_action": "Scale up resources",
+    "confidence": 0.8,
+    "security_note": null
+  }
+]
