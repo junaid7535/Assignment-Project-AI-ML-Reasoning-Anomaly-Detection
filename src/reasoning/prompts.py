@@ -8,8 +8,3 @@ Network: {resource.get('network_pct')}%
 
 Detected anomalies: {anomalies}
 
-Explain:
-1. Why this is anomalous
-2. Risk involved
-3. Suggested action
-"""
