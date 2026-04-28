@@ -65,7 +65,7 @@ No single method is sufficient:
 ---
 
 
-## ⚖️ Tradeoffs
+## Tradeoffs
 
 ### Strengths
 
@@ -77,32 +77,32 @@ No single method is sufficient:
 ---
 
 
-## 🚀 What I Would Improve With More Time
+## What I Would Improve With More Time
 
-### 🔹 1. Adaptive Thresholds
+### 1. Adaptive Thresholds
 - Use historical data to dynamically adjust thresholds  
 
 ---
 
-### 🔹 2. Machine Learning Integration
+### 2. Machine Learning Integration
 - Apply unsupervised models (e.g., Isolation Forest)  
 - Detect anomalies based on learned patterns  
 
 ---
 
-### 🔹 3. LLM Integration
+### 3. LLM Integration
 - Replace template reasoning with real LLM  
 - Improve explanation quality and flexibility  
 
 ---
 
-### 🔹 4. Feedback Loop (Learning System)
+### 4. Feedback Loop (Learning System)
 - Store past decisions  
 - Improve future predictions based on outcomes  
 
 ---
 
-### 🔹 5. Multi-Agent Architecture
+### 5. Multi-Agent Architecture
 - Separate responsibilities into agents:
   - Optimizer (cost)  
   - Guardian (security)  
